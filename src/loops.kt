@@ -14,7 +14,7 @@ fun main(){
         cakesEaten ++
     }
 
-    // do while
+    // do while loop
 
     do {
         bakeACake()
